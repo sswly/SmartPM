@@ -1,0 +1,4 @@
+SmartPM
+=======
+
+Smart Plugin Manager
