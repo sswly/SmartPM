@@ -5,5 +5,8 @@ Smart Plugin Manager
 
 Product Backlog
 ===============
-* As architect, I want to has a manager to manage different kind of plugin manager so that I can add a new plugin manager. 
+* As architect, I want to design a manageable interface so that any object that implements this interface is manageable. 
  * <b>Status</b> Started
+* As architect, I want to desgin a manager to manage manageable objects.
+ * <b>Status</b> Started
+ 
