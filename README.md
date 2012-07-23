@@ -11,4 +11,6 @@ Product Backlog
  * <b>Status</b> Started
 * As architect, I want to desgin a worker pool to execute the action of manageable object.
  * <b>Status</b> Started
+* As user, I want to add a plugin to handle TCP client request.
+ * <b>Status</b> Started
 
