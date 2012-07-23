@@ -9,4 +9,6 @@ Product Backlog
  * <b>Status</b> Started
 * As architect, I want to desgin a manager to manage manageable objects.
  * <b>Status</b> Started
- 
+* As architect, I want to desgin a worker pool to execute the action of manageable object.
+ * <b>Status</b> Started
+
